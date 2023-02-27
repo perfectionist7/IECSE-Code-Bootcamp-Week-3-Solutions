@@ -1,4 +1,3 @@
-// 4275242	 Aug 14, 2013 5:03:19 AM	fuwutu	 264A - Escape from Stones	 GNU C++0x	Accepted	 498 ms	 8800 KB
 #include <cstdio>
 #include <cstring>
 
