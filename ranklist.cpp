@@ -1,4 +1,3 @@
-// 4042740   Jul 9, 2013 6:04:04 PM	fuwutu	 166A - Rank List	 GNU C++0x	Accepted	15 ms	0 KB
 #include <iostream>
 #include <algorithm>
 
